@@ -5,7 +5,7 @@
 <p>
   <em>
     I am a student of programming, enchanted by the <br>
-    technological world and how we can create new things. 
+    technological world and how we can create new things. <br>
     I love playing the guitar and drinking coffee.
   </em>  
 </p>
