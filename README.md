@@ -12,6 +12,9 @@
 </p>
 
 <br>
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
   <a href="https://www.linkedin.com/in/gisele-araujo-silva-21b420202/">
     <img align="left" alt="Gisele | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
