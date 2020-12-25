@@ -16,14 +16,14 @@
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <div align="center">
-  <a href="https://www.linkedin.com/in/gisele-araujo-silva-21b420202/">
-    <img align="left" alt="Gisele | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  <a align="center" href="https://www.linkedin.com/in/gisele-araujo-silva-21b420202/">
+    <img align="center" alt="Gisele | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://twitter.com/gi_flw">
-    <img align="left" alt="Gisele | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  <a align="center" href="https://twitter.com/gi_flw">
+    <img align="center" alt="Gisele | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>  
-  <a href="mailto:giselearaujo07.s@gmail.com">
-    <img align="left" alt="Gisele | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  <a align="center" href="mailto:giselearaujo07.s@gmail.com">
+    <img align="center" alt="Gisele | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 </div>
   <br>
