@@ -12,15 +12,6 @@
 </p>
 
 <br>
-### 👨‍💻 Languages and Tools
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-
-<br>
-
   <a href="https://www.linkedin.com/in/gisele-araujo-silva-21b420202/">
     <img align="left" alt="Gisele | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -30,6 +21,7 @@
   <a href="mailto:giselearaujo07.s@gmail.com">
     <img align="left" alt="Gisele | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+  <br>
   
   <br>
   <p align="center">  
