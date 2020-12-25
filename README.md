@@ -10,12 +10,6 @@
   </em>  
 </p>
 
-
-<br>
-
-
-![Gisele's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
-
 <br>
 
   <a href="https://www.linkedin.com/in/gisele-araujo-silva-21b420202/">
