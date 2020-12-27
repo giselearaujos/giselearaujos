@@ -34,7 +34,7 @@
   
   
   ![Gisele's github stats](https://github-readme-stats.vercel.app/api?username=giselearaujos&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giselearaujos&layout=compact)](https://github.com/giselearaujos/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giselearaujos&layout=compact&theme=radical)](https://github.com/giselearaujos/github-readme-stats)
   
 
 
