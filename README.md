@@ -31,6 +31,9 @@
   <p align="center">  
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
   </p>
+  
+  
+  ![Gisele's github stats](https://github-readme-stats.vercel.app/api?username=giselearaujos&show_icons=true&theme=radical)
 
-<br><br><br><br>
+
 
