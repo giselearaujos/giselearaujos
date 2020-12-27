@@ -32,8 +32,9 @@
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
   </p>
   
-  <p align="center">
+  
   ![Gisele's github stats](https://github-readme-stats.vercel.app/api?username=giselearaujos&show_icons=true&theme=radical)
-  </p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giselearaujos&layout=compact)](https://github.com/giselearaujos/github-readme-stats)
+  
 
 
