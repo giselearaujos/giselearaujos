@@ -32,14 +32,12 @@
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
   </p>
   
+<div align="center">  
+[Gisele's github stats](https://github-readme-stats.vercel.app/api?username=giselearaujos&show_icons=true&theme=onedark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giselearaujos&layout=compact&theme=onedark)](https://github.com/giselearaujos/github-readme-stats) 
+</div>  
   
-<!--   ![Gisele's github stats align="center"](https://github-readme-stats.vercel.app/api?username=giselearaujos&show_icons=true&theme=onedark)
-  [![Top Langs align="center"](https://github-readme-stats.vercel.app/api/top-langs/?username=giselearaujos&layout=compact&theme=onedark)](https://github.com/giselearaujos/github-readme-stats) -->
   
-  <div width="100%">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=giselearaujos&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="49.75%"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=giselearaujos&count_private=true&theme=midnight-purple&hide_border=true" width="49.75%"/>
-</div>
   
 
 
