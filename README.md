@@ -32,10 +32,10 @@
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
   </p>
   
-<div align="center">  
+
 [Gisele's github stats](https://github-readme-stats.vercel.app/api?username=giselearaujos&show_icons=true&theme=onedark)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giselearaujos&layout=compact&theme=onedark)](https://github.com/giselearaujos/github-readme-stats) 
-</div>  
+  
   
   
   
