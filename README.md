@@ -1,5 +1,4 @@
-<h1 align="center"> Gisele Araujo Silva<img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"><br>
-  <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img  align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
+<h3 align="center"> Gisele Araujo Silva</h3>
 
 <p align="center">
   <em>
